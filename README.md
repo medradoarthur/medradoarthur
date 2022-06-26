@@ -1,8 +1,8 @@
 ### Meu nome é Arthur Medrado!
 
 
-- 🔭 Atualmente estou trabalhando com Delphi e Back-End, voltando pra parte de Web ...
-- 🌱 Estudando Back-End: .NET e JavaScript
+- 🔭 Atualmente estou trabalhando com Delphi e Back-End, voltado pra parte de Web
+- 🌱 Estudando .NET e JavaScript
 
 
 <div align="center">
